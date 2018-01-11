@@ -1,0 +1,8 @@
+web:
+  build:
+    image: registry.heroku.com/product-api-server/app
+    dockerfile_path: ./product/Dockerfile
+#heroku_dockercfg:
+#  image: codeship/heroku-dockercfg-generator
+#  add_docker: true
+#  encrypted_env_file: heroku.env.encrypted
