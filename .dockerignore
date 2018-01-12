@@ -1,7 +1,2 @@
-Dockerfile.staging
-Dockerfile.development
-Dockerfile.test
-Dockerfile.production
 Dockerfile
 docker-compose.yml
-docker-compose.staging.yml

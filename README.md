@@ -27,3 +27,5 @@
 `git add .`
 `git commit -am "make it better"`
 `git push heroku master`
+
+`heroku container:push web -a product-api-server`
